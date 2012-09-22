@@ -35,7 +35,8 @@
     "underscore": "*",
     "backbone": "*",
     "styled_string": "*",
-    "colors": "*"
+    "colors": "*",
+    "request": "~2.11.4"
   },
   "files": [
     "docs",
