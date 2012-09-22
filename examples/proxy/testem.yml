@@ -1,0 +1,3 @@
+proxy:
+    /ajax: http://toby.home
+    /web: http://tobyho.com
